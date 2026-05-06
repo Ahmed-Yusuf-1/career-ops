@@ -1,0 +1,55 @@
+CANDIDATE CV:
+Ahmed Yusuf
+587-577-9779 | Ahmed.yusuf.6770@gmail.com | linkedin.com/in/ahmed-yusuf-sait/  |
+github.com/Ahmed-Yusuf-1
+Professional Summary
+Full Stack Software Developer with a Diploma in Software Development and a strong technical 
+foundation in Python, TypeScript, and React Native. I'm passionate about building software from scratch to 
+solve real word challenges.
+... (Ahmed's projects: Focus Space [React Native/Expo/Firebase/Gemini AI], AB Productions [Next.js/React/Tailwind/Firebase])
+
+CANDIDATE PROFILE:
+- Target Archetypes: AI Platform, Agentic Workflows, Technical AI PM, Solutions Architect, Forward Deployed, AI Transformation.
+- Experience Level: Junior (New Grad / 1-2 years projects)
+
+JOB DESCRIPTION (Shopra - Junior Full Stack Developer):
+Role: Junior Full Stack Developer (Ruby on Rails / React)
+Company: Shopra (AI-powered SaaS for the beverage industry)
+What You’ll Do:
+- Build and improve features across a Ruby on Rails + React stack.
+- Collaborate with product and design teams to turn requirements into working features.
+- Write clean, maintainable code and learn best practices around testing.
+- Help debug issues and improve performance over time.
+- Participate in code reviews and team discussions.
+- Learn deployment and operations (Docker, cloud infrastructure).
+What They’re Looking For:
+- Experience: 1–3 years with Ruby on Rails and React.
+- Technical Skills: Basic understanding of APIs and relational databases.
+- Testing: Some experience with testing or a strong interest in learning.
+- Soft Skills: Curious, dependable, open to feedback, and comfortable in a fast-moving startup environment.
+- Bonus: Exposure to Docker or cloud platforms.
+
+JOB DESCRIPTION (Sophilabs - Junior Python/Django Developer):
+Role: Junior Python/Django Developer
+Company: Sophilabs (Software development agency)
+What You’ll Do:
+- Build websites, mobile apps, and backend services.
+- Use Python and Django in cross-functional teams (Scrum).
+Qualifications:
+- Fluency in Python and Django.
+- English fluency.
+Preferred:
+- IT degree, GitHub, HTML/CSS, JavaScript (Angular/React), PostgreSQL, AWS, Docker.
+
+JOB DESCRIPTION (Hivery - Data Engineer - New Grad):
+Role: Data Engineer - New Grad
+Company: Hivery (AI-powered retail optimization startup)
+Team: Curate Engineering Team
+What You’ll Do:
+- Develop features for HIVERY Curate (Python or Go).
+- Work with cloud providers (Azure, AWS, GCP) and IaC.
+- Code quality, maintainability, on-call rotations.
+Requirements:
+- Python or Go academic/professional experience.
+- Understanding of data structures and algorithms.
+- Remote organization experience/mindset.
